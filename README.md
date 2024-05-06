@@ -1,3 +1,5 @@
+![Image of a dingo head](https://github.com/jelsdon/dough-dingo/blob/main/images/dough-dingo-small.png?raw=true)
+
 # dough-dingo
 Dough-Dingo is a dough rising controller ...prototype.
 
